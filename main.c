@@ -3,7 +3,17 @@
 #include <string.h>
 #include <unistd.h>
 
+char *function(char *str)
+{
+	str = "Feature, World!";
+	return (str);
+}
+
 int	main()
 {
-	printf("Hello, World!\n");
+	char *str = "Hello, World!";
+	str = function(str);
+
+	printf("%s\n", str);
+	return (0);
 }
