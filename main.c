@@ -5,7 +5,7 @@
 
 char *function(char *str)
 {
-	str = "Main, World!";
+	str = "Main with a feature, World!";
 	return (str);
 }
 
