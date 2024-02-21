@@ -5,7 +5,7 @@
 
 char *function(char *str)
 {
-	str = "Main, World!";
+	str = "Feature, World!";
 	return (str);
 }
 
@@ -15,4 +15,5 @@ int	main()
 	str = function(str);
 
 	printf("%s\n", str);
+	return (0);
 }
