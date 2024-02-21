@@ -5,7 +5,11 @@
 
 char *function(char *str)
 {
+<<<<<<< HEAD
 	str = "Feature, World!";
+=======
+	str = "Main, World!";
+>>>>>>> main
 	return (str);
 }
 
