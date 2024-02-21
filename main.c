@@ -18,6 +18,6 @@ int	main()
 	char *str = "Hello, World!";
 	str = function(str);
 
-	printf("%s%s%s\n", lines(str), ptr(ptr), str);
+	printf("%s%s%s\n", lines(str), ptr(str), str);
 	return (0);
 }
