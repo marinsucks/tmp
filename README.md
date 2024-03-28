@@ -17,7 +17,7 @@ Hey there! I'm Marin. I just finished the 42 Piscine, and I'm super excited to k
 
 - 🍽️ [**Philosophers**](./4.0-Philosophers/) - In progress! I'm handling threads routine: eat, sleep, think, die.
 
-- <img src="./.misc/bash-logo.svg" height="10px"> [**Minishell**](./4.1-Minishell/) - In progress! A group project in which [Aleksei]() and I create our own basic reproduction of bash.
+- <img src="./.misc/bash-logo.svg" height="13px"> [**Minishell**](./4.1-Minishell/) - In progress! A group project in which [Aleksei]() and I create our own basic reproduction of bash.
 
 ## 🔧 System Administration 
 
