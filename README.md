@@ -2,7 +2,7 @@
 
 Hey there! I'm Marin. I just finished the 42 Piscine, and I'm super excited to kick off my 42 cursus. This repo is here to share my projects and discoveries during my time at 42. 
 
-## <img src="./.misc/c-logo.svg" height="24px" width="24px"> Projects
+## <img src="./.misc/c-logo.svg" height="16px"> Projects
 - 🐣 Basic C functions:
 	- [**Piscine**](./0-piscine/) - Gotta start somewhere! I learned the basics in C.
 	- [**libft**](./1-libft/) - I built my own basic C library.
